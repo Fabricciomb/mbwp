@@ -1,0 +1,5 @@
+core
+vendor
+wp-content
+.htacess
+composer.lock
